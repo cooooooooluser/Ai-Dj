@@ -1,0 +1,51 @@
+body{
+    background-size: cover;
+}
+
+.header{
+    width:100%;
+    margin-top:0px;
+    font-size: 25px;
+}
+
+#left-disk{
+   float: left;
+
+}
+
+#right-disk{
+    float: right;
+    
+}
+
+img{
+   width:250px;
+   border-radius: 250px;
+}
+
+.play-music{
+    font-size: 35px;
+    width: 250px;
+    font-family: 'Orbitron', sans-serif;
+    border-radius:75px;
+}
+
+.b{
+    font-family: 'Orbitron', sans-serif;
+    border: radius 150px;
+    width: 250px;
+    font-size: 25px;
+}
+
+#note{ 
+    font-size: 17px;
+    color: black;
+    font-family: 'Orbitron', sans-serif;
+}
+
+canvas { 
+    border:5px solid white; 
+    border-radius:20px;
+    margin-top: 50px; 
+}
+
